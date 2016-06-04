@@ -1,0 +1,31 @@
+header {
+	background: blue;
+	color:#fff;
+	margin-bottom: 10px;
+}
+
+.main {
+	background:#f2f2f2;
+}
+
+.color1 {
+	background: #34495e;
+	color:#fff;
+}
+
+aside {
+	background:#c0392b;
+	color:#fff;
+}
+
+footer {
+	background:#16a085;
+	color:#fff;
+}
+
+.img-responsive{
+	max-width: 100%;
+	height: auto;
+	display:block;
+    max-height: 250px;
+}
